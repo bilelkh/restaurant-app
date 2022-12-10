@@ -1,0 +1,16 @@
+.navbar .navbar-nav a {
+  text-decoration: none;
+  color: #000;
+}
+
+.receipts-list .add-button {
+  float: right;
+}
+
+.file-uploader {
+  margin-top: 20px;
+}
+
+.add-to-receipt {
+  margin-right: 20px;
+}
